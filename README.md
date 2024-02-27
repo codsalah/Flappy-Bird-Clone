@@ -8,7 +8,7 @@ This is a simple clone of the classic game Flappy Bird, built using Pygame. The 
 
 ## Gameplay Screenshots
 
-![Screenshot 1](img/scr1.png) ![Screenshot 2](img/scr2.png) ![Screenshot 3](img/scr3.png)
+![Screenshot 1](img/scr1.png) ![Screenshot 2](img/scr2.png) ![Screenshot 3](img/scr3.png) ![Screenshot 4](img/scr4.png)
 
 ## Features
 
